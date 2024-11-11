@@ -1,0 +1,6 @@
+a cube appears
+join cube center
+cube: hi
+cube: bye
+leave cube [animation="Slide Out Right"]
+the cube is gone
